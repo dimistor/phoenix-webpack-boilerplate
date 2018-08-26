@@ -1,0 +1,9 @@
+{
+  "presets": [
+    ["env", {
+      "targets": {
+        "browsers": ["> 0.5%", "last 2 version", "Firefox ESR", "not dead"]
+      }
+    }]
+  ]
+}
